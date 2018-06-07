@@ -8,6 +8,6 @@ The K-means clustering technique is simple, and we begin with a description of t
 
 ![alt text][logo]
 
-[logo]: https://drive.google.com/open?id=1sqOTtdU1W7viN_ItB4RZFFkwTSx2XbIb "Figure 1"
+[logo]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408644/K-means_Algorithm.png "Figure 1"
 
 ***
