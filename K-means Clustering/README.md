@@ -12,14 +12,14 @@ The K-means clustering technique is simple, and we begin with a description of t
 ***
 # Application Output
 Original Image
-![Image before segmentation][logo]
 
-[logo]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408858/Before.jpg "Figure 2"
+![Image before segmentation][before]
+[before]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408858/Before.jpg "Figure 2"
 
 After applyin K-means with K=2
-![Image after segmentation][logo]
 
-[logo]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408835/After.png "Figure 3"
+![Image after segmentation][after]
+[after]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408835/After.png "Figure 3"
 ***
 # References
 1. Eleventh International Multi-Conference on Information Processing-2015 (IMCIP-2015) “Image Segmentation using K-means Clustering Algorithm” by Nameirakpam Dhanachandra∗, Khumanthem Manglem and Yambem Jina Chanu
