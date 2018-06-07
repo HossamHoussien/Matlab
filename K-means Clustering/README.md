@@ -9,5 +9,21 @@ The K-means clustering technique is simple, and we begin with a description of t
 ![alt text][logo]
 
 [logo]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408644/K-means_Algorithm.png "Figure 1"
-
 ***
+# Application Output
+Original Image
+![Image before segmentation][logo]
+
+[logo]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408858/Before.jpg "Figure 2"
+
+After applyin K-means with K=2
+![Image after segmentation][logo]
+
+[logo]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408835/After.png "Figure 3"
+***
+# References
+1. Eleventh International Multi-Conference on Information Processing-2015 (IMCIP-2015) “Image Segmentation using K-means Clustering Algorithm” by Nameirakpam Dhanachandra∗, Khumanthem Manglem and Yambem Jina Chanu
+
+2.	Frucci, Maria; Sanniti di Baja, Gabriella (2008). "From Segmentation to Binarization of Gray-level Images". Journal of Pattern Recognition Research.
+
+3.	Wikipedia articles “Image Segmentation” and “Cluster analysis”
