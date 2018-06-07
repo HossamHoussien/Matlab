@@ -14,11 +14,13 @@ The K-means clustering technique is simple, and we begin with a description of t
 Original Image
 
 ![Image before segmentation][before]
+
 [before]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408858/Before.jpg "Figure 2"
 
 After applyin K-means with K=2
 
 ![Image after segmentation][after]
+
 [after]: https://res.cloudinary.com/hossamhoussien/image/upload/v1528408835/After.png "Figure 3"
 ***
 # References
